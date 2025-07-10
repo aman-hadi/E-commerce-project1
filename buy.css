@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.wrp>h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.wrp>p {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.wrp>a>button {
+    padding: 14px 65px;
+    color: #fff;
+    background-color: orangered;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
